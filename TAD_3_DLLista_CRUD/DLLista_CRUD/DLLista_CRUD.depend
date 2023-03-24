@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1644155083 source:c:\users\eu\documents\programação\c\colecaotad\dllista_crud\dll.c
+	<stdio.h>
+	<stdlib.h>
+	"dll.h"
+
+1644155146 c:\users\eu\documents\programação\c\colecaotad\dllista_crud\dll.h
+	<stdio.h>
+	<stdlib.h>
+
+1644155146 source:c:\users\eu\documents\programação\c\colecaotad\dllista_crud\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dll.h"
+
+1644161433 source:c:\users\netto\onedrive\Área de trabalho\dllista_crud\dllista_crud\dll.c
+	<stdio.h>
+	<stdlib.h>
+	"dll.h"
+
+1644161433 c:\users\netto\onedrive\Área de trabalho\dllista_crud\dllista_crud\dll.h
+	<stdio.h>
+	<stdlib.h>
+
+1644161433 source:c:\users\netto\onedrive\Área de trabalho\dllista_crud\dllista_crud\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dll.h"
+
